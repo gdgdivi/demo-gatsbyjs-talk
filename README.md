@@ -1,26 +1,23 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# GDG Divi - Gatsby Talk
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+Demo.
 
-## Install
+## Commands
 
-Make sure that you have the Gatsby CLI program installed:
+Install:
+
 ```sh
-npm install --global gatsby-cli
+yarn install
 ```
 
-And run from your CLI:
+Run from your machine:
+
 ```sh
-gatsby new gatsby-example-site
+yarn develop
 ```
 
-Then you can run it by:
+Deploy to firebase:
+
 ```sh
-cd gatsby-example-site
-gatsby develop
+yarn deploy
 ```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
