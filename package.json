@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Vinicius Soares <squimer@gmail.com>",
   "dependencies": {
+    "bulma": "^0.7.1",
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
     "gatsby-plugin-offline": "next",
