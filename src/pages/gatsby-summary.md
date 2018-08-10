@@ -9,3 +9,8 @@ date: "2018-08-09T22:17:32.169Z"
 4. Gatsby has a large and growing set of plugins. Plugins are Node.js packages that implement Gatsby APIs. They enable you to easily solve common website build problems e.g. setup Sass, add markdown support, process images, etc.
 5. Gatsby follows the PRPL architectural pattern. Gatsby sites render a static HTML version of the initial route and then load the code bundle for the page. Then immediately starts pre-caching resources for pages linked to from the initial route. When a user clicks on a link, Gatsby creates the new page on demand on the client.
 6. There are many options for loading data into React components. One of the most popular and powerful of these is a technology called GraphQL. GraphQL is a query language (the QL part of its name). Gatsby uses GraphQL to enable page and layout components to declare what data they and their sub-components need. Then, Gatsby makes that data available in the browser when needed by your components.
+
+## Further Reading
+
+- [GatsbyJS Official Docs](https://www.gatsbyjs.org/docs/)
+- [GatsbyJS Official Docs 2.0 BETA](https://next.gatsbyjs.org/)
